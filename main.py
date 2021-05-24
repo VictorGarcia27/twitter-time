@@ -23,53 +23,53 @@ while True:
         api.update_status("@FaresBichard", now)
         a = False
         print("c'est fait")
-    elif now.minute == 1 and now.hour == 1:
+    elif now.minute == 1 and now.hour == 1 and a:
         api.update_status(ab)
-    elif now.minute == 2 and now.hour == 2:
+    elif now.minute == 2 and now.hour == 2 and a:
         api.update_status(ab)
-    elif now.minute == 3 and now.hour == 3:
+    elif now.minute == 3 and now.hour == 3 and a:
         api.update_status(ab)
-    elif now.minute == 4 and now.hour == 4:
+    elif now.minute == 4 and now.hour == 4 and a:
         api.update_status(ab)
-    elif now.minute == 5 and now.hour == 5:
+    elif now.minute == 5 and now.hour == 5 and a:
         api.update_status(ab)
-    elif now.minute == 6 and now.hour == 6:
+    elif now.minute == 6 and now.hour == 6 and a:
         api.update_status(ab)
-    elif now.minute == 7 and now.hour == 7:
+    elif now.minute == 7 and now.hour == 7 and a:
         api.update_status(ab)
-    elif now.minute == 8 and now.hour == 8:
+    elif now.minute == 8 and now.hour == 8 and a:
         api.update_status(ab)
-    elif now.minute == 9 and now.hour == 9:
+    elif now.minute == 9 and now.hour == 9 and a:
         api.update_status(ab)
-    elif now.minute == 10 and now.hour == 10:
+    elif now.minute == 10 and now.hour == 10 and a:
         api.update_status(ab)
-    elif now.minute == 11 and now.hour == 11:
+    elif now.minute == 11 and now.hour == 11 and a:
         api.update_status(ab)
-    elif now.minute == 12 and now.hour == 12:
+    elif now.minute == 12 and now.hour == 12 and a:
         api.update_status(ab)
-    elif now.minute == 13 and now.hour == 13:
+    elif now.minute == 13 and now.hour == 13 and a:
         api.update_status(ab)
-    elif now.minute == 14 and now.hour == 14:
+    elif now.minute == 14 and now.hour == 14 and a:
         api.update_status(ab)
-    elif now.minute == 15 and now.hour == 15:
+    elif now.minute == 15 and now.hour == 15 and a:
         api.update_status(ab)
-    elif now.minute == 16 and now.hour == 16:
+    elif now.minute == 16 and now.hour == 16 and a:
         api.update_status(ab)
-    elif now.minute == 17 and now.hour == 17:
+    elif now.minute == 17 and now.hour == 17 and a:
         api.update_status(ab)
-    elif now.minute == 18 and now.hour == 18:
+    elif now.minute == 18 and now.hour == 18 and a:
         api.update_status(ab)
-    elif now.minute == 19 and now.hour == 19:
+    elif now.minute == 19 and now.hour == 19 and a:
         api.update_status(ab)
-    elif now.minute == 20 and now.hour == 20:
+    elif now.minute == 20 and now.hour == 20 and a:
         api.update_status(ab)
-    elif now.minute == 21 and now.hour == 21:
+    elif now.minute == 21 and now.hour == 21 and a:
         api.update_status(ab)
-    elif now.minute == 22 and now.hour == 22:
+    elif now.minute == 22 and now.hour == 22 and a:
         api.update_status(ab)
-    elif now.minute == 23 and now.hour == 23:
+    elif now.minute == 23 and now.hour == 23: and a
         api.update_status(ab)
-    elif now.minute == 0 and now.hour == 0:
+    elif now.minute == 0 and now.hour == 0 and a:
         api.update_status(ab)
     else:
         a = True

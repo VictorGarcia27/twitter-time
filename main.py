@@ -3,8 +3,8 @@ import tweepy
 import time
 from PIL import Image, ImageDraw, ImageFont
 
-auth = tweepy.OAuthHandler("olw6lknndaKvalPeQJnUVSkl0", "JSGhd15ngYz2tQPMhtJF3uRlpjizWoIkAEUOXSZzs7vqkgWRUF")
-auth.set_access_token("1253657081552539648-C7L43ALfYhO0EffDdcvhqBnelKTHJs", "5io5HIKkTOlSAaTdNrQpkvxCL36aQBO1BixC58YX4CM4p") 
+auth = tweepy.OAuthHandler("", "")
+auth.set_access_token("", ") 
 api = tweepy.API(auth, wait_on_rate_limit=True,wait_on_rate_limit_notify=True)
 
 now = datetime.datetime.now()
